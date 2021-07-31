@@ -2,7 +2,7 @@
 
 HDSS STREAM SCRAPING SCRIPT
 
-C'est script pour voir les film ou séries a la une du sites de streaming et voir si votre si est encore disponible !
+C'est script pour voir les film ou séries a la une du sites de streaming et voir si votre film ou séries est encore disponible !
 
 --
 
